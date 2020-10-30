@@ -3,7 +3,8 @@
       <title>FUNNY MOMENT !</title>
   </head>
   <body>
-      <h1>นางสาวพิมพ์ชนก บุญทองนุ่ม พิม</h1>
+      <h1>FUNNY MOMENT</h1>
+      <p>นางสาวพิมพ์ชนก บุญทองนุ่ม พิม</p>
       <p>เรื่องตลกของประเทศไอร์แลนด์เหนือ</p>
       <img src="doctor1.jpg">
       <img src="doctor2.jpg">
